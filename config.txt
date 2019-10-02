@@ -1,0 +1,10 @@
+# default config for camera eating baby
+# use # at the start to comment out a line
+folder=baby/
+sensitivity=10
+width=240
+height=320
+min=1
+low=65
+max=90
+ext=jpg
